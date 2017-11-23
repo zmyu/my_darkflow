@@ -1,7 +1,7 @@
 ## Intro
 this is a copy from https://github.com/thtrieu/darkflow .
 which just to make convenient for me to learn it .
-so if you want to use darkflow ,you can clinkhttps://github.com/thtrieu/darkflow.
+so if you want to use darkflow ,you can clink https://github.com/thtrieu/darkflow.
 
 [![Build Status](https://travis-ci.org/thtrieu/darkflow.svg?branch=master)](https://travis-ci.org/thtrieu/darkflow) [![codecov](https://codecov.io/gh/thtrieu/darkflow/branch/master/graph/badge.svg)](https://codecov.io/gh/thtrieu/darkflow)
 
